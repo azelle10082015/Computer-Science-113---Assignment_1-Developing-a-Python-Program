@@ -20,7 +20,7 @@ def display_title():
 
 
 
-# Validate name with regex
+# Validate name using regex
 def get_player_name():
 
     pattern=r"^[A-Za-z]{3,15}$"
