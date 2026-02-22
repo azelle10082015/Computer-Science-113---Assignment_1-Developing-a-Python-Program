@@ -67,7 +67,7 @@ def forest_path(decisions):
 
 
 # Second decision
-def final_decision(location, decisions):
+def final_decision(location,decisions):
     
     if location=="river":
 
